@@ -1,0 +1,6 @@
+{
+    "title": "MCC Contracts",
+    "type": "servercontent",
+    "tags": ["realism", "roleplay"],
+    "ignore": ["*.md", "tests/*", "*.py"]
+}
